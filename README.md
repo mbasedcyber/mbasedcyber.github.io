@@ -1,4 +1,4 @@
-avatar: /images/mb.png
+![Image] (/images/mb.png)
 
 ## Welcome to GitHub Pages
 
